@@ -351,7 +351,7 @@ html.simpl.highDensityInbox:not(.splitView) .zA {
 /* Right and bottom padding on inbox and messages */
 html.simpl .aeF {
 	padding-right: 56px !important;
-	margin-bottom: 150px;
+	margin-bottom: 100px;
 }
 
 /* Max width inbox and conversation and add top padding */
